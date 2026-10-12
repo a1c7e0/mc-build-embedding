@@ -1,0 +1,210 @@
+{
+ "id": "procthor_12",
+ "scale": {
+  "unit": "block",
+  "storey_height": 3
+ },
+ "footprint": {
+  "w": 9,
+  "d": 5
+ },
+ "rooms": [
+  {
+   "id": "room|2",
+   "type": "bedroom",
+   "rect": [
+    0,
+    0,
+    7,
+    4
+   ],
+   "storeys": [
+    0
+   ]
+  }
+ ],
+ "walls": [
+  {
+   "from": [
+    7,
+    0
+   ],
+   "to": [
+    0,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 3,
+     "width": 1,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    0,
+    0
+   ],
+   "to": [
+    0,
+    4
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "window",
+     "at": 0,
+     "width": 1,
+     "height": 1,
+     "y": 1
+    }
+   ]
+  },
+  {
+   "from": [
+    0,
+    4
+   ],
+   "to": [
+    7,
+    4
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "window",
+     "at": 3,
+     "width": 1,
+     "height": 1,
+     "y": 1
+    }
+   ]
+  },
+  {
+   "from": [
+    7,
+    4
+   ],
+   "to": [
+    7,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    7,
+    0
+   ],
+   "to": [
+    7,
+    4
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    0
+   ],
+   "to": [
+    7,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 3,
+     "width": 1,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    0,
+    4
+   ],
+   "to": [
+    0,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "window",
+     "at": 0,
+     "width": 1,
+     "height": 1,
+     "y": 1
+    }
+   ]
+  },
+  {
+   "from": [
+    7,
+    4
+   ],
+   "to": [
+    0,
+    4
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "window",
+     "at": 3,
+     "width": 1,
+     "height": 1,
+     "y": 1
+    }
+   ]
+  }
+ ],
+ "floors": [
+  {
+   "storey": 0,
+   "rect": [
+    0,
+    0,
+    9,
+    5
+   ]
+  }
+ ],
+ "roof": {
+  "kind": "flat",
+  "pitch": 1,
+  "ridge": "x"
+ },
+ "material": {
+  "wall": "mineral",
+  "floor": "wood",
+  "roof": "mineral",
+  "frame": "wood"
+ }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tower_03",
+  "scale": { "unit": "block", "storey_height": 4 },
+  "footprint": { "w": 7, "d": 7 },
+  "rooms": [
+    { "id": "shaft", "type": "tower", "rect": [1, 1, 6, 6], "storeys": [0, 1, 2] }
+  ],
+  "walls": [
+    { "from": [0, 0], "to": [7, 0], "storeys": [0], "openings": [
+      { "kind": "door", "at": 2, "width": 2, "height": 3, "y": 0 }
+    ] },
+    { "from": [7, 0], "to": [7, 7], "storeys": [0], "openings": [] },
+    { "from": [7, 7], "to": [0, 7], "storeys": [0], "openings": [
+      { "kind": "window", "at": 3, "width": 1, "height": 2, "y": 1 }
+    ] },
+    { "from": [0, 7], "to": [0, 0], "storeys": [0], "openings": [] },
+    { "from": [0, 0], "to": [7, 0], "storeys": [1], "openings": [
+      { "kind": "window", "at": 3, "width": 1, "height": 2, "y": 1 }
+    ] },
+    { "from": [7, 0], "to": [7, 7], "storeys": [1], "openings": [
+      { "kind": "window", "at": 3, "width": 1, "height": 2, "y": 1 }
+    ] },
+    { "from": [7, 7], "to": [0, 7], "storeys": [1], "openings": [] },
+    { "from": [0, 7], "to": [0, 0], "storeys": [1], "openings": [
+      { "kind": "window", "at": 3, "width": 1, "height": 2, "y": 1 }
+    ] },
+    { "from": [0, 0], "to": [7, 0], "storeys": [2], "openings": [
+      { "kind": "window", "at": 3, "width": 1, "height": 2, "y": 1 }
+    ] },
+    { "from": [7, 0], "to": [7, 7], "storeys": [2], "openings": [] },
+    { "from": [7, 7], "to": [0, 7], "storeys": [2], "openings": [
+      { "kind": "window", "at": 3, "width": 1, "height": 2, "y": 1 }
+    ] },
+    { "from": [0, 7], "to": [0, 0], "storeys": [2], "openings": [] }
+  ],
+  "floors": [
+    { "storey": 0, "rect": [0, 0, 7, 7] },
+    { "storey": 1, "rect": [0, 0, 7, 7] },
+    { "storey": 2, "rect": [0, 0, 7, 7] }
+  ],
+  "roof": { "kind": "hip", "overhang": 1, "pitch": 1, "ridge": "x" },
+  "material": { "wall": "mineral", "floor": "mineral", "roof": "mineral", "frame": "wood" }
+}

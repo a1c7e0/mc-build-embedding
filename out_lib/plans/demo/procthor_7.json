@@ -1,0 +1,633 @@
+{
+ "id": "procthor_7",
+ "scale": {
+  "unit": "block",
+  "storey_height": 3
+ },
+ "footprint": {
+  "w": 11,
+  "d": 8
+ },
+ "rooms": [
+  {
+   "id": "room|4",
+   "type": "bedroom",
+   "rect": [
+    0,
+    3,
+    5,
+    7
+   ],
+   "storeys": [
+    0
+   ]
+  },
+  {
+   "id": "room|5",
+   "type": "bathroom",
+   "rect": [
+    0,
+    2,
+    5,
+    3
+   ],
+   "storeys": [
+    0
+   ]
+  },
+  {
+   "id": "room|6",
+   "type": "kitchen",
+   "rect": [
+    5,
+    0,
+    10,
+    3
+   ],
+   "storeys": [
+    0
+   ]
+  },
+  {
+   "id": "room|7",
+   "type": "living",
+   "rect": [
+    5,
+    3,
+    10,
+    7
+   ],
+   "storeys": [
+    0
+   ]
+  }
+ ],
+ "walls": [
+  {
+   "from": [
+    0,
+    3
+   ],
+   "to": [
+    0,
+    7
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    7
+   ],
+   "to": [
+    5,
+    7
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    5,
+    7
+   ],
+   "to": [
+    5,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 1,
+     "width": 2,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    5,
+    3
+   ],
+   "to": [
+    0,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 3,
+     "width": 1,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    0,
+    2
+   ],
+   "to": [
+    0,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    3
+   ],
+   "to": [
+    5,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 3,
+     "width": 1,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    5,
+    3
+   ],
+   "to": [
+    5,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    5,
+    2
+   ],
+   "to": [
+    0,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    5,
+    2
+   ],
+   "to": [
+    5,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    5,
+    3
+   ],
+   "to": [
+    10,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 2,
+     "width": 2,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    10,
+    3
+   ],
+   "to": [
+    10,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    10,
+    0
+   ],
+   "to": [
+    7,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 1,
+     "width": 1,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    7,
+    0
+   ],
+   "to": [
+    7,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    7,
+    2
+   ],
+   "to": [
+    5,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "window",
+     "at": 0,
+     "width": 1,
+     "height": 1,
+     "y": 1
+    }
+   ]
+  },
+  {
+   "from": [
+    5,
+    3
+   ],
+   "to": [
+    5,
+    7
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 1,
+     "width": 2,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    5,
+    7
+   ],
+   "to": [
+    8,
+    7
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "window",
+     "at": 0,
+     "width": 1,
+     "height": 2,
+     "y": 1
+    }
+   ]
+  },
+  {
+   "from": [
+    8,
+    7
+   ],
+   "to": [
+    8,
+    5
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    8,
+    5
+   ],
+   "to": [
+    10,
+    5
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    10,
+    5
+   ],
+   "to": [
+    10,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    10,
+    3
+   ],
+   "to": [
+    5,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 2,
+     "width": 2,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    0,
+    3
+   ],
+   "to": [
+    0,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    2
+   ],
+   "to": [
+    5,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    7
+   ],
+   "to": [
+    0,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    5,
+    7
+   ],
+   "to": [
+    0,
+    7
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    7,
+    2
+   ],
+   "to": [
+    7,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    7,
+    0
+   ],
+   "to": [
+    10,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 1,
+     "width": 1,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    10,
+    0
+   ],
+   "to": [
+    10,
+    3
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    5,
+    2
+   ],
+   "to": [
+    7,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "window",
+     "at": 0,
+     "width": 1,
+     "height": 1,
+     "y": 1
+    }
+   ]
+  },
+  {
+   "from": [
+    8,
+    7
+   ],
+   "to": [
+    5,
+    7
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "window",
+     "at": 0,
+     "width": 1,
+     "height": 2,
+     "y": 1
+    }
+   ]
+  },
+  {
+   "from": [
+    10,
+    3
+   ],
+   "to": [
+    10,
+    5
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    8,
+    5
+   ],
+   "to": [
+    8,
+    7
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    10,
+    5
+   ],
+   "to": [
+    8,
+    5
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  }
+ ],
+ "floors": [
+  {
+   "storey": 0,
+   "rect": [
+    0,
+    0,
+    11,
+    8
+   ]
+  }
+ ],
+ "roof": {
+  "kind": "flat",
+  "pitch": 1,
+  "ridge": "x"
+ },
+ "material": {
+  "wall": "mineral",
+  "floor": "wood",
+  "roof": "mineral",
+  "frame": "wood"
+ }
+}

@@ -1,0 +1,2 @@
+FROM mcb-embed:latest
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu

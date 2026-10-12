@@ -1,0 +1,290 @@
+{
+ "id": "procthor_0",
+ "scale": {
+  "unit": "block",
+  "storey_height": 5
+ },
+ "footprint": {
+  "w": 9,
+  "d": 7
+ },
+ "rooms": [
+  {
+   "id": "room|2",
+   "type": "kitchen",
+   "rect": [
+    0,
+    0,
+    8,
+    6
+   ],
+   "storeys": [
+    0
+   ]
+  }
+ ],
+ "walls": [
+  {
+   "from": [
+    0,
+    0
+   ],
+   "to": [
+    0,
+    4
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    4
+   ],
+   "to": [
+    6,
+    4
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    6,
+    4
+   ],
+   "to": [
+    6,
+    6
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 0,
+     "width": 1,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    6,
+    6
+   ],
+   "to": [
+    8,
+    6
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    8,
+    2
+   ],
+   "to": [
+    8,
+    6
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    6,
+    2
+   ],
+   "to": [
+    8,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    6,
+    0
+   ],
+   "to": [
+    6,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    0
+   ],
+   "to": [
+    6,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    0
+   ],
+   "to": [
+    6,
+    0
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    0
+   ],
+   "to": [
+    0,
+    4
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    0,
+    4
+   ],
+   "to": [
+    6,
+    4
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    6,
+    6
+   ],
+   "to": [
+    8,
+    6
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    6,
+    0
+   ],
+   "to": [
+    6,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    6,
+    2
+   ],
+   "to": [
+    8,
+    2
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  },
+  {
+   "from": [
+    6,
+    4
+   ],
+   "to": [
+    6,
+    6
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": [
+    {
+     "kind": "door",
+     "at": 0,
+     "width": 1,
+     "height": 2,
+     "y": 0
+    }
+   ]
+  },
+  {
+   "from": [
+    8,
+    2
+   ],
+   "to": [
+    8,
+    6
+   ],
+   "storeys": [
+    0
+   ],
+   "openings": []
+  }
+ ],
+ "floors": [
+  {
+   "storey": 0,
+   "rect": [
+    0,
+    0,
+    9,
+    7
+   ]
+  }
+ ],
+ "roof": {
+  "kind": "flat",
+  "pitch": 1,
+  "ridge": "x"
+ },
+ "material": {
+  "wall": "mineral",
+  "floor": "wood",
+  "roof": "mineral",
+  "frame": "wood"
+ }
+}

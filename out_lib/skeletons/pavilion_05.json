@@ -1,0 +1,25 @@
+{
+  "id": "pavilion_05",
+  "scale": { "unit": "block", "storey_height": 4 },
+  "footprint": { "w": 9, "d": 9 },
+  "rooms": [
+    { "id": "open", "type": "pavilion", "rect": [1, 1, 8, 8], "storeys": [0] }
+  ],
+  "walls": [
+    { "from": [0, 0], "to": [9, 0], "storeys": [0], "openings": [
+      { "kind": "door", "at": 2, "width": 5, "height": 3, "y": 0 }
+    ] },
+    { "from": [9, 0], "to": [9, 9], "storeys": [0], "openings": [
+      { "kind": "door", "at": 2, "width": 5, "height": 3, "y": 0 }
+    ] },
+    { "from": [9, 9], "to": [0, 9], "storeys": [0], "openings": [
+      { "kind": "door", "at": 2, "width": 5, "height": 3, "y": 0 }
+    ] },
+    { "from": [0, 9], "to": [0, 0], "storeys": [0], "openings": [
+      { "kind": "door", "at": 2, "width": 5, "height": 3, "y": 0 }
+    ] }
+  ],
+  "floors": [ { "storey": 0, "rect": [0, 0, 9, 9] } ],
+  "roof": { "kind": "hip", "overhang": 2, "pitch": 1, "ridge": "x" },
+  "material": { "wall": "wood", "floor": "wood", "roof": "organic", "frame": "wood" }
+}

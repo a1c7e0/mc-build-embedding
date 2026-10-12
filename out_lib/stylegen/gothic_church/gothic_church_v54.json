@@ -1,0 +1,1284 @@
+{
+  "id": "gothic_church_s3353",
+  "scale": {
+    "unit": "block",
+    "storey_height": 11
+  },
+  "footprint": {
+    "w": 27,
+    "d": 15
+  },
+  "rooms": [
+    {
+      "id": "nave",
+      "type": "nave",
+      "rect": [
+        1,
+        5,
+        9,
+        9
+      ],
+      "storeys": [
+        0
+      ]
+    },
+    {
+      "id": "crossing",
+      "type": "crossing",
+      "rect": [
+        9,
+        5,
+        18,
+        9
+      ],
+      "storeys": [
+        0
+      ]
+    },
+    {
+      "id": "chancel",
+      "type": "chancel",
+      "rect": [
+        18,
+        5,
+        26,
+        9
+      ],
+      "storeys": [
+        0
+      ]
+    },
+    {
+      "id": "transept_n",
+      "type": "transept",
+      "rect": [
+        9,
+        3,
+        18,
+        5
+      ],
+      "storeys": [
+        0
+      ]
+    },
+    {
+      "id": "transept_s",
+      "type": "transept",
+      "rect": [
+        9,
+        9,
+        18,
+        12
+      ],
+      "storeys": [
+        0
+      ]
+    },
+    {
+      "id": "chapel_nw",
+      "type": "chapel",
+      "rect": [
+        1,
+        3,
+        9,
+        5
+      ],
+      "storeys": [
+        0
+      ]
+    },
+    {
+      "id": "chapel_sw",
+      "type": "chapel",
+      "rect": [
+        1,
+        9,
+        9,
+        12
+      ],
+      "storeys": [
+        0
+      ]
+    },
+    {
+      "id": "chapel_ne",
+      "type": "chapel",
+      "rect": [
+        18,
+        3,
+        26,
+        5
+      ],
+      "storeys": [
+        0
+      ]
+    },
+    {
+      "id": "chapel_se",
+      "type": "chapel",
+      "rect": [
+        18,
+        9,
+        26,
+        12
+      ],
+      "storeys": [
+        0
+      ]
+    }
+  ],
+  "walls": [
+    {
+      "from": [
+        0,
+        0
+      ],
+      "to": [
+        0,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        1,
+        0
+      ],
+      "to": [
+        1,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        2,
+        0
+      ],
+      "to": [
+        2,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        3,
+        0
+      ],
+      "to": [
+        3,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        4,
+        0
+      ],
+      "to": [
+        4,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        5,
+        0
+      ],
+      "to": [
+        5,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        6,
+        0
+      ],
+      "to": [
+        6,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        7,
+        0
+      ],
+      "to": [
+        7,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        8,
+        0
+      ],
+      "to": [
+        8,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        9,
+        0
+      ],
+      "to": [
+        9,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        10,
+        0
+      ],
+      "to": [
+        10,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        11,
+        0
+      ],
+      "to": [
+        11,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        12,
+        0
+      ],
+      "to": [
+        12,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        13,
+        0
+      ],
+      "to": [
+        13,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        14,
+        0
+      ],
+      "to": [
+        14,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        15,
+        0
+      ],
+      "to": [
+        15,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        16,
+        0
+      ],
+      "to": [
+        16,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        17,
+        0
+      ],
+      "to": [
+        17,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        18,
+        0
+      ],
+      "to": [
+        18,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        19,
+        0
+      ],
+      "to": [
+        19,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        20,
+        0
+      ],
+      "to": [
+        20,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        21,
+        0
+      ],
+      "to": [
+        21,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        22,
+        0
+      ],
+      "to": [
+        22,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        23,
+        0
+      ],
+      "to": [
+        23,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        24,
+        0
+      ],
+      "to": [
+        24,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        25,
+        0
+      ],
+      "to": [
+        25,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        26,
+        0
+      ],
+      "to": [
+        26,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 0,
+          "width": 15,
+          "height": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        0,
+        2
+      ],
+      "to": [
+        26,
+        2
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 3,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        },
+        {
+          "kind": "window",
+          "at": 7,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        },
+        {
+          "kind": "window",
+          "at": 11,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        },
+        {
+          "kind": "window",
+          "at": 16,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        },
+        {
+          "kind": "window",
+          "at": 20,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "from": [
+        0,
+        12
+      ],
+      "to": [
+        26,
+        12
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 3,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        },
+        {
+          "kind": "window",
+          "at": 7,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        },
+        {
+          "kind": "window",
+          "at": 11,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        },
+        {
+          "kind": "window",
+          "at": 16,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        },
+        {
+          "kind": "window",
+          "at": 20,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "from": [
+        0,
+        0
+      ],
+      "to": [
+        0,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "door",
+          "at": 6,
+          "width": 3,
+          "height": 9,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "from": [
+        26,
+        0
+      ],
+      "to": [
+        26,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "at": 3,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        },
+        {
+          "kind": "window",
+          "at": 9,
+          "width": 2,
+          "height": 7,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "from": [
+        9,
+        2
+      ],
+      "to": [
+        9,
+        12
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "door",
+          "at": 4,
+          "width": 3,
+          "height": 7,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        18,
+        2
+      ],
+      "to": [
+        18,
+        12
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "door",
+          "at": 4,
+          "width": 3,
+          "height": 7,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        1,
+        5
+      ],
+      "to": [
+        9,
+        5
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "door",
+          "at": 2,
+          "width": 2,
+          "height": 7,
+          "y": 1
+        },
+        {
+          "kind": "door",
+          "at": 6,
+          "width": 2,
+          "height": 7,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        18,
+        5
+      ],
+      "to": [
+        25,
+        5
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "door",
+          "at": 2,
+          "width": 2,
+          "height": 7,
+          "y": 1
+        },
+        {
+          "kind": "door",
+          "at": 6,
+          "width": 2,
+          "height": 7,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        1,
+        9
+      ],
+      "to": [
+        9,
+        9
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "door",
+          "at": 2,
+          "width": 2,
+          "height": 7,
+          "y": 1
+        },
+        {
+          "kind": "door",
+          "at": 6,
+          "width": 2,
+          "height": 7,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        18,
+        9
+      ],
+      "to": [
+        25,
+        9
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": [
+        {
+          "kind": "door",
+          "at": 2,
+          "width": 2,
+          "height": 7,
+          "y": 1
+        },
+        {
+          "kind": "door",
+          "at": 6,
+          "width": 2,
+          "height": 7,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "from": [
+        2,
+        0
+      ],
+      "to": [
+        2,
+        2
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        2,
+        12
+      ],
+      "to": [
+        2,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        6,
+        0
+      ],
+      "to": [
+        6,
+        2
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        6,
+        12
+      ],
+      "to": [
+        6,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        10,
+        0
+      ],
+      "to": [
+        10,
+        2
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        10,
+        12
+      ],
+      "to": [
+        10,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        15,
+        0
+      ],
+      "to": [
+        15,
+        2
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        15,
+        12
+      ],
+      "to": [
+        15,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        19,
+        0
+      ],
+      "to": [
+        19,
+        2
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        19,
+        12
+      ],
+      "to": [
+        19,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        24,
+        0
+      ],
+      "to": [
+        24,
+        2
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        24,
+        12
+      ],
+      "to": [
+        24,
+        14
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        0,
+        2
+      ],
+      "to": [
+        0,
+        2
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        0,
+        12
+      ],
+      "to": [
+        0,
+        12
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        26,
+        2
+      ],
+      "to": [
+        26,
+        2
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    },
+    {
+      "from": [
+        26,
+        12
+      ],
+      "to": [
+        26,
+        12
+      ],
+      "storeys": [
+        0
+      ],
+      "openings": []
+    }
+  ],
+  "floors": [
+    {
+      "storey": 0,
+      "rect": [
+        0,
+        0,
+        27,
+        15
+      ]
+    }
+  ],
+  "roof": {
+    "kind": "gable",
+    "overhang": 1,
+    "pitch": 1,
+    "ridge": "x"
+  },
+  "material": {
+    "wall": "mineral",
+    "floor": "mineral",
+    "roof": "mineral",
+    "frame": "mineral"
+  }
+}

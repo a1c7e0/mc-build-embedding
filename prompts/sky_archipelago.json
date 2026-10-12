@@ -1,0 +1,66 @@
+{
+  "name": "sky_archipelago",
+  "prompt": "A vast warm sea with a great ring atoll and turquoise lagoon; above it drifts a sky archipelago — the largest island crowned by a temple settlement with waterfalls falling from its underside into the lagoon; a mainland headland with a harbour town in the west.",
+  "seed": 20261008,
+  "size": [640, 640],
+  "world_height": 160,
+  "water_level": 30,
+  "terrain": {
+    "relief": 34,
+    "meander": 0.03,
+    "droplets": 26000,
+    "river": [[0.05, 0.22], [0.18, 0.30], [0.32, 0.38]],
+    "river_width": 10,
+    "river_depth": 5
+  },
+  "features": [
+    {"type": "atoll", "center": [0.56, 0.56], "radius": 0.30,
+     "ring_radius": 0.68, "height": 16, "lagoon_depth": 12},
+    {"type": "mountain", "center": [0.10, 0.12], "radius": 0.18, "height": 22},
+    {"type": "floating_island", "center": [0.36, 0.32], "radius": 0.075,
+     "thickness": 26, "altitude": 72, "settle": "temple", "settle_slots": 6},
+    {"type": "floating_island", "center": [0.55, 0.19], "radius": 0.05,
+     "thickness": 20, "altitude": 88},
+    {"type": "floating_island", "center": [0.21, 0.55], "radius": 0.045,
+     "thickness": 18, "altitude": 60},
+    {"type": "floating_island", "center": [0.69, 0.40], "radius": 0.035,
+     "thickness": 15, "altitude": 96},
+    {"type": "floating_island", "center": [0.45, 0.63], "radius": 0.03,
+     "thickness": 12, "altitude": 56},
+    {"type": "floating_island", "center": [0.72, 0.68], "radius": 0.028,
+     "thickness": 11, "altitude": 82}
+  ],
+  "districts": [
+    {"type": "temple", "label": "lagoon temple village", "center": [0.56, 0.36], "radius": 0.10,
+     "clusters": [3, 4], "density": 0.55,
+     "authors": ["massEntropy"],
+     "styles": ["asian", "other"],
+     "enclosure": "open",
+     "tags": ["temple"],
+     "palette": {"mineral": 155, "colourful": 35}},
+    {"type": "market", "label": "harbour town", "center": [0.18, 0.30], "radius": 0.13,
+     "clusters": [3, 4], "density": 0.6,
+     "authors": ["Smon", "Breakc0re"],
+     "styles": ["medieval", "western", "other", "nautical"],
+     "enclosure": "open",
+     "tags": ["market", "shop", "hall"],
+     "palette": {"mineral": 45, "colourful": 45}},
+    {"type": "suburb", "label": "headland housing", "center": [0.30, 0.16], "radius": 0.10,
+     "clusters": [1, 6], "density": 0.5,
+     "authors": ["GREGON"],
+     "styles": ["modern", "other"],
+     "enclosure": "closed",
+     "tags": ["house", "home"],
+     "palette": {"mineral": 98, "colourful": 155}}
+  ],
+  "roads": [
+    {"name": "shore_road", "points": [[0.10, 0.22], [0.24, 0.32], [0.36, 0.42]], "width": 2}
+  ],
+  "landmarks": [
+    {"type": "lighthouse", "at": [0.38, 0.62]}
+  ],
+  "decoration": {
+    "tree_density": 0.012,
+    "farm": [{"center": [0.14, 0.14], "radius": 0.05}]
+  }
+}

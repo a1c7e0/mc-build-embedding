@@ -1,0 +1,626 @@
+[
+  {
+    "idx": 2992,
+    "tile": 1,
+    "dims": [
+      26,
+      11,
+      25
+    ],
+    "title": "The 10 Pressure plate: Trap door. [Schematic + flat map DL]",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/schematic-flat-map-dl-10-pressure-plate-trap-door/"
+  },
+  {
+    "idx": 1534,
+    "tile": 2,
+    "dims": [
+      40,
+      19,
+      15
+    ],
+    "title": "Small Cathedral",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/small-cathedral/"
+  },
+  {
+    "idx": 2624,
+    "tile": 3,
+    "dims": [
+      72,
+      27,
+      72
+    ],
+    "title": "Five Point Pyramid",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/five-point-pyramid/"
+  },
+  {
+    "idx": 2870,
+    "tile": 4,
+    "dims": [
+      117,
+      29,
+      41
+    ],
+    "title": "The Vortex",
+    "meta_type": "vehicle",
+    "meta_style": "medieval",
+    "url": "https://www.planetminecraft.com/project/the-vortex/"
+  },
+  {
+    "idx": 2267,
+    "tile": 5,
+    "dims": [
+      35,
+      93,
+      34
+    ],
+    "title": "Clock",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/clock-402413/"
+  },
+  {
+    "idx": 439,
+    "tile": 6,
+    "dims": [
+      31,
+      14,
+      25
+    ],
+    "title": "Simple Farmhouse",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/simple-farmhouse/"
+  },
+  {
+    "idx": 1926,
+    "tile": 7,
+    "dims": [
+      67,
+      35,
+      52
+    ],
+    "title": "RoseThorn Hall",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/rosethorn-hall/"
+  },
+  {
+    "idx": 1171,
+    "tile": 8,
+    "dims": [
+      21,
+      12,
+      18
+    ],
+    "title": "Dustbowl Center",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/dustbowl-center/"
+  },
+  {
+    "idx": 1921,
+    "tile": 9,
+    "dims": [
+      85,
+      21,
+      65
+    ],
+    "title": "Gladiator Arena",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/gladiator-arena-290582/"
+  },
+  {
+    "idx": 1759,
+    "tile": 10,
+    "dims": [
+      32,
+      29,
+      32
+    ],
+    "title": "Temple of Ender",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/temple-of-ender/"
+  },
+  {
+    "idx": 2540,
+    "tile": 11,
+    "dims": [
+      32,
+      39,
+      15
+    ],
+    "title": "Wizard tower",
+    "meta_type": "building",
+    "meta_style": "medieval",
+    "url": "https://www.planetminecraft.com/project/wizard-tower-492167/"
+  },
+  {
+    "idx": 3081,
+    "tile": 12,
+    "dims": [
+      64,
+      14,
+      43
+    ],
+    "title": "The Farnsworth House 2012",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/the-farnsworth-house-2012/"
+  },
+  {
+    "idx": 230,
+    "tile": 13,
+    "dims": [
+      33,
+      15,
+      11
+    ],
+    "title": "Submarine [Schematic/World Save]",
+    "meta_type": "vehicle",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/submarine-22808/"
+  },
+  {
+    "idx": 2918,
+    "tile": 14,
+    "dims": [
+      25,
+      16,
+      21
+    ],
+    "title": "MobTrap",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/mobtrap-607191/"
+  },
+  {
+    "idx": 740,
+    "tile": 15,
+    "dims": [
+      25,
+      25,
+      25
+    ],
+    "title": "Companion cube ^_^",
+    "meta_type": "sprite",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/companion-cube-_/"
+  },
+  {
+    "idx": 1554,
+    "tile": 16,
+    "dims": [
+      41,
+      33,
+      29
+    ],
+    "title": "my first house.",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/my-first-house-213997/"
+  },
+  {
+    "idx": 1895,
+    "tile": 17,
+    "dims": [
+      82,
+      23,
+      17
+    ],
+    "title": "Stalker Assault Gunboat (steampunk airship)",
+    "meta_type": "vehicle",
+    "meta_style": "medieval",
+    "url": "https://www.planetminecraft.com/project/stalker-assault-gunboat-steampunk-airship/"
+  },
+  {
+    "idx": 3182,
+    "tile": 18,
+    "dims": [
+      36,
+      19,
+      35
+    ],
+    "title": "Simple Server Spawn (Download: Schematic)",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/simple-server-spawn-download-schematic/"
+  },
+  {
+    "idx": 1927,
+    "tile": 19,
+    "dims": [
+      55,
+      61,
+      25
+    ],
+    "title": "Green Lantern",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/green-lantern-290220/"
+  },
+  {
+    "idx": 1277,
+    "tile": 20,
+    "dims": [
+      29,
+      41,
+      28
+    ],
+    "title": "Big house made of sandstone",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/big-house-made-of-sandstone/"
+  },
+  {
+    "idx": 431,
+    "tile": 21,
+    "dims": [
+      125,
+      1,
+      123
+    ],
+    "title": "HD 1-UP",
+    "meta_type": "sprite",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/hd-1up/"
+  },
+  {
+    "idx": 2431,
+    "tile": 22,
+    "dims": [
+      25,
+      25,
+      25
+    ],
+    "title": "MobArena spawnUnit",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/mobarena-spawnunit/"
+  },
+  {
+    "idx": 1638,
+    "tile": 23,
+    "dims": [
+      56,
+      20,
+      55
+    ],
+    "title": "Luxery House",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/luxery-house/"
+  },
+  {
+    "idx": 1577,
+    "tile": 24,
+    "dims": [
+      31,
+      64,
+      30
+    ],
+    "title": "World Trade Center",
+    "meta_type": "building",
+    "meta_style": "medieval",
+    "url": "https://www.planetminecraft.com/project/world-trade-center/"
+  },
+  {
+    "idx": 2816,
+    "tile": 25,
+    "dims": [
+      68,
+      8,
+      18
+    ],
+    "title": "Double House",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/double-house/"
+  },
+  {
+    "idx": 1586,
+    "tile": 26,
+    "dims": [
+      112,
+      110,
+      80
+    ],
+    "title": "Castle - Runic Paradise - Montepente",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/castle---runic-paradise---montepente/"
+  },
+  {
+    "idx": 2561,
+    "tile": 27,
+    "dims": [
+      110,
+      24,
+      105
+    ],
+    "title": "Star Wars Coruscant Senatorengebäude",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/star-wars-coruscant-senatorengebude/"
+  },
+  {
+    "idx": 2348,
+    "tile": 28,
+    "dims": [
+      44,
+      40,
+      36
+    ],
+    "title": "The Kingdom of Leonardo",
+    "meta_type": "statue",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/the-kingdom-of-leonardo/"
+  },
+  {
+    "idx": 766,
+    "tile": 29,
+    "dims": [
+      22,
+      37,
+      22
+    ],
+    "title": "Pagode (iWorld.nitrado.net)",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/pagode-iworldnitradonet/"
+  },
+  {
+    "idx": 2265,
+    "tile": 30,
+    "dims": [
+      64,
+      64,
+      1
+    ],
+    "title": "Facebook Logo",
+    "meta_type": "sprite",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/facebook-sign/"
+  },
+  {
+    "idx": 449,
+    "tile": 31,
+    "dims": [
+      22,
+      12,
+      18
+    ],
+    "title": "Japanesse House",
+    "meta_type": "building",
+    "meta_style": "asian",
+    "url": "https://www.planetminecraft.com/project/japanesse-floating-house/"
+  },
+  {
+    "idx": 1735,
+    "tile": 32,
+    "dims": [
+      29,
+      41,
+      26
+    ],
+    "title": "My Server's spawn/Goblin Tower",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/my-servers-spawngoblin-tower/"
+  },
+  {
+    "idx": 49,
+    "tile": 33,
+    "dims": [
+      51,
+      9,
+      7
+    ],
+    "title": "PRR Baldwin Sharknose locomotive [With Download]",
+    "meta_type": "vehicle",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/prr-baldwin-sharknose-locomotive-with-download/"
+  },
+  {
+    "idx": 898,
+    "tile": 34,
+    "dims": [
+      35,
+      9,
+      29
+    ],
+    "title": "Automatic TNT Cannon V3.0",
+    "meta_type": "other",
+    "meta_style": "medieval",
+    "url": "https://www.planetminecraft.com/project/automatic-tnt-cannon-v30/"
+  },
+  {
+    "idx": 3134,
+    "tile": 35,
+    "dims": [
+      78,
+      25,
+      47
+    ],
+    "title": "Tic-Tac-Toe",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/tic-tac-toe-713383/"
+  },
+  {
+    "idx": 2015,
+    "tile": 36,
+    "dims": [
+      42,
+      18,
+      24
+    ],
+    "title": "House #1 - Gregonsburg Hills",
+    "meta_type": "building",
+    "meta_style": "modern",
+    "url": "https://www.planetminecraft.com/project/house-1---gregonsburg-hills/"
+  },
+  {
+    "idx": 91,
+    "tile": 37,
+    "dims": [
+      80,
+      1,
+      80
+    ],
+    "title": "Nyan Cat pixel art",
+    "meta_type": "sprite",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/nyan-cat-pixel-art-4828225/"
+  },
+  {
+    "idx": 1173,
+    "tile": 38,
+    "dims": [
+      55,
+      10,
+      29
+    ],
+    "title": "Judaic Temple Pack.",
+    "meta_type": "building",
+    "meta_style": "medieval",
+    "url": "https://www.planetminecraft.com/project/early-judaic-temple/"
+  },
+  {
+    "idx": 1439,
+    "tile": 39,
+    "dims": [
+      53,
+      53,
+      53
+    ],
+    "title": "Red Molecule",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/red-molecule/"
+  },
+  {
+    "idx": 999,
+    "tile": 40,
+    "dims": [
+      49,
+      11,
+      37
+    ],
+    "title": "(RDF) Minecart based 4 bit memory",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/rdf-minecart-based-4-bit-memory/"
+  },
+  {
+    "idx": 495,
+    "tile": 41,
+    "dims": [
+      64,
+      60,
+      1
+    ],
+    "title": "Knuckles And Master Emerald",
+    "meta_type": "sprite",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/knuckles-and-master-emerald/"
+  },
+  {
+    "idx": 3002,
+    "tile": 42,
+    "dims": [
+      68,
+      27,
+      50
+    ],
+    "title": "Dara Gardens Houses - (Fictitious) NYCHA Housing Projects",
+    "meta_type": "building",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/dara-gardens-houses---fictitious-nycha-housing-projects/"
+  },
+  {
+    "idx": 493,
+    "tile": 43,
+    "dims": [
+      93,
+      48,
+      1
+    ],
+    "title": "Nyan Cat *now w/ rainbow",
+    "meta_type": "sprite",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/nyan-cat-now-w-rainbow/"
+  },
+  {
+    "idx": 2818,
+    "tile": 44,
+    "dims": [
+      25,
+      18,
+      17
+    ],
+    "title": "Bungalow",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/bungalow-509036/"
+  },
+  {
+    "idx": 264,
+    "tile": 45,
+    "dims": [
+      29,
+      14,
+      13
+    ],
+    "title": "Oriental place",
+    "meta_type": "building",
+    "meta_style": "asian",
+    "url": "https://www.planetminecraft.com/project/oriental-place/"
+  },
+  {
+    "idx": 393,
+    "tile": 46,
+    "dims": [
+      56,
+      28,
+      51
+    ],
+    "title": "Shakespeare's Globe Theatre",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/shakespeares-globe-theatre/"
+  },
+  {
+    "idx": 3171,
+    "tile": 47,
+    "dims": [
+      78,
+      20,
+      25
+    ],
+    "title": "[Accalis fleet]  Crimson arrow destroyer",
+    "meta_type": "vehicle",
+    "meta_style": "medieval",
+    "url": "https://www.planetminecraft.com/project/crimson-arrow-destroyer/"
+  },
+  {
+    "idx": 3162,
+    "tile": 48,
+    "dims": [
+      64,
+      27,
+      11
+    ],
+    "title": "Stückgutfrachter angelehnt an die Cap San Diego",
+    "meta_type": "other",
+    "meta_style": "other",
+    "url": "https://www.planetminecraft.com/project/stckgutfrachter-angelehnt-an-die-cap-san-diego/"
+  }
+]

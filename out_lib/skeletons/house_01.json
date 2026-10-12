@@ -1,0 +1,29 @@
+{
+  "id": "house_01",
+  "scale": { "unit": "block", "storey_height": 4 },
+  "footprint": { "w": 11, "d": 9 },
+  "rooms": [
+    { "id": "living", "type": "living", "rect": [1, 1, 6, 8], "storeys": [0] },
+    { "id": "kitchen", "type": "kitchen", "rect": [6, 1, 10, 5], "storeys": [0] },
+    { "id": "bedroom", "type": "bedroom", "rect": [6, 5, 10, 8], "storeys": [0] }
+  ],
+  "walls": [
+    { "from": [0, 0], "to": [11, 0], "storeys": [0], "openings": [
+      { "kind": "door", "at": 2, "width": 2, "height": 3, "y": 0 },
+      { "kind": "window", "at": 7, "width": 2, "height": 2, "y": 1 }
+    ] },
+    { "from": [11, 0], "to": [11, 9], "storeys": [0], "openings": [
+      { "kind": "window", "at": 3, "width": 2, "height": 2, "y": 1 }
+    ] },
+    { "from": [11, 9], "to": [0, 9], "storeys": [0], "openings": [
+      { "kind": "window", "at": 2, "width": 2, "height": 2, "y": 1 },
+      { "kind": "window", "at": 7, "width": 2, "height": 2, "y": 1 }
+    ] },
+    { "from": [0, 9], "to": [0, 0], "storeys": [0], "openings": [
+      { "kind": "window", "at": 3, "width": 2, "height": 2, "y": 1 }
+    ] }
+  ],
+  "floors": [ { "storey": 0, "rect": [0, 0, 11, 9] } ],
+  "roof": { "kind": "gable", "overhang": 1, "pitch": 1, "ridge": "x" },
+  "material": { "wall": "mineral", "floor": "mineral", "roof": "mineral", "frame": "wood" }
+}

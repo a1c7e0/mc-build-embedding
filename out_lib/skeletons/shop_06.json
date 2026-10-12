@@ -1,0 +1,42 @@
+{
+  "id": "shop_06",
+  "scale": { "unit": "block", "storey_height": 4 },
+  "footprint": { "w": 13, "d": 11 },
+  "rooms": [
+    { "id": "store", "type": "shop", "rect": [1, 1, 12, 10], "storeys": [0] },
+    { "id": "flat", "type": "living", "rect": [1, 1, 12, 10], "storeys": [1] }
+  ],
+  "walls": [
+    { "from": [0, 0], "to": [13, 0], "storeys": [0], "openings": [
+      { "kind": "door", "at": 5, "width": 3, "height": 3, "y": 0 },
+      { "kind": "window", "at": 0, "width": 4, "height": 2, "y": 1 },
+      { "kind": "window", "at": 9, "width": 3, "height": 2, "y": 1 }
+    ] },
+    { "from": [13, 0], "to": [13, 11], "storeys": [0], "openings": [
+      { "kind": "window", "at": 4, "width": 3, "height": 2, "y": 1 }
+    ] },
+    { "from": [13, 11], "to": [0, 11], "storeys": [0], "openings": [] },
+    { "from": [0, 11], "to": [0, 0], "storeys": [0], "openings": [
+      { "kind": "window", "at": 4, "width": 3, "height": 2, "y": 1 }
+    ] },
+    { "from": [0, 0], "to": [13, 0], "storeys": [1], "openings": [
+      { "kind": "window", "at": 2, "width": 2, "height": 2, "y": 1 },
+      { "kind": "window", "at": 9, "width": 2, "height": 2, "y": 1 }
+    ] },
+    { "from": [13, 0], "to": [13, 11], "storeys": [1], "openings": [
+      { "kind": "window", "at": 4, "width": 2, "height": 2, "y": 1 }
+    ] },
+    { "from": [13, 11], "to": [0, 11], "storeys": [1], "openings": [
+      { "kind": "window", "at": 5, "width": 2, "height": 2, "y": 1 }
+    ] },
+    { "from": [0, 11], "to": [0, 0], "storeys": [1], "openings": [
+      { "kind": "window", "at": 4, "width": 2, "height": 2, "y": 1 }
+    ] }
+  ],
+  "floors": [
+    { "storey": 0, "rect": [0, 0, 13, 11] },
+    { "storey": 1, "rect": [0, 0, 13, 11] }
+  ],
+  "roof": { "kind": "flat", "overhang": 0, "pitch": 1, "ridge": "x" },
+  "material": { "wall": "mineral", "floor": "wood", "roof": "mineral", "frame": "wood" }
+}

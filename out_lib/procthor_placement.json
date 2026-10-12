@@ -1,0 +1,63 @@
+{
+ "wall_distance_mean": 3.930231006685696,
+ "wall_distance_median": 3.423024452969432,
+ "height_mean": 0.8082168613427099,
+ "height_median": 0.4848818778991699,
+ "position_distribution": {
+  "near_wall": 14424,
+  "mid": 12032,
+  "center": 32018
+ },
+ "orientation_distribution": {
+  "1": 14409,
+  "0": 14606,
+  "3": 14711,
+  "2": 14748
+ },
+ "height_bands": {
+  "floor": 31180,
+  "table": 10747,
+  "wall": 16547
+ },
+ "top_item_types": {
+  "Wall": 16151,
+  "Chair": 4810,
+  "RoboTHOR": 4578,
+  "Dining": 2808,
+  "bin": 2729,
+  "Dresser": 2192,
+  "Bed": 2191,
+  "Toilet": 1820,
+  "Television": 1805,
+  "Sink": 1739,
+  "Plunger": 1593,
+  "Countertop": 1486,
+  "TV": 1478,
+  "Houseplant": 1452,
+  "Fridge": 1418,
+  "Sofa": 1187,
+  "Floor": 1124,
+  "Side": 1096,
+  "Armchair": 935,
+  "Shelving": 841,
+  "Box": 807,
+  "Stool": 753,
+  "Dog": 716,
+  "GarbageBag": 569,
+  "BaseballBat": 382,
+  "Cart": 324,
+  "Basketball": 304,
+  "Desk": 302,
+  "Laundry": 203,
+  "Safe": 138,
+  "Clothes": 129,
+  "Washing": 123,
+  "Boot": 65,
+  "Vacuum": 45,
+  "Coffee": 43,
+  "DecorativeBox3": 41,
+  "ArmChair": 41,
+  "Room": 30,
+  "Ottoman": 26
+ }
+}

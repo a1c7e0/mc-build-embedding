@@ -1,0 +1,342 @@
+{
+  "0": {
+    "size": 386,
+    "function_top": [
+      [
+        "other",
+        210
+      ],
+      [
+        "house",
+        91
+      ],
+      [
+        "castle",
+        13
+      ],
+      [
+        "ship",
+        13
+      ]
+    ],
+    "style_top": [
+      [
+        "other",
+        337
+      ],
+      [
+        "modern",
+        26
+      ],
+      [
+        "medieval",
+        11
+      ],
+      [
+        "western",
+        4
+      ]
+    ],
+    "mean_dims": [
+      43.9,
+      30.4,
+      27.2
+    ]
+  },
+  "1": {
+    "size": 235,
+    "function_top": [
+      [
+        "other",
+        133
+      ],
+      [
+        "house",
+        44
+      ],
+      [
+        "farm",
+        17
+      ],
+      [
+        "castle",
+        13
+      ]
+    ],
+    "style_top": [
+      [
+        "other",
+        228
+      ],
+      [
+        "modern",
+        5
+      ],
+      [
+        "western",
+        1
+      ],
+      [
+        "asian",
+        1
+      ]
+    ],
+    "mean_dims": [
+      56.9,
+      33.9,
+      41.5
+    ]
+  },
+  "2": {
+    "size": 149,
+    "function_top": [
+      [
+        "other",
+        112
+      ],
+      [
+        "statue",
+        12
+      ],
+      [
+        "farm",
+        7
+      ],
+      [
+        "house",
+        5
+      ]
+    ],
+    "style_top": [
+      [
+        "other",
+        148
+      ],
+      [
+        "fantasy",
+        1
+      ]
+    ],
+    "mean_dims": [
+      65.7,
+      35.8,
+      32.2
+    ]
+  },
+  "3": {
+    "size": 1019,
+    "function_top": [
+      [
+        "other",
+        581
+      ],
+      [
+        "house",
+        85
+      ],
+      [
+        "ship",
+        75
+      ],
+      [
+        "castle",
+        70
+      ]
+    ],
+    "style_top": [
+      [
+        "other",
+        937
+      ],
+      [
+        "scifi",
+        27
+      ],
+      [
+        "medieval",
+        23
+      ],
+      [
+        "modern",
+        11
+      ]
+    ],
+    "mean_dims": [
+      62.3,
+      42.8,
+      43.3
+    ]
+  },
+  "4": {
+    "size": 421,
+    "function_top": [
+      [
+        "other",
+        193
+      ],
+      [
+        "house",
+        113
+      ],
+      [
+        "castle",
+        34
+      ],
+      [
+        "settlement",
+        14
+      ]
+    ],
+    "style_top": [
+      [
+        "other",
+        374
+      ],
+      [
+        "modern",
+        35
+      ],
+      [
+        "medieval",
+        6
+      ],
+      [
+        "asian",
+        3
+      ]
+    ],
+    "mean_dims": [
+      54.1,
+      26.3,
+      40.3
+    ]
+  },
+  "5": {
+    "size": 788,
+    "function_top": [
+      [
+        "other",
+        399
+      ],
+      [
+        "house",
+        174
+      ],
+      [
+        "castle",
+        61
+      ],
+      [
+        "temple",
+        41
+      ]
+    ],
+    "style_top": [
+      [
+        "other",
+        689
+      ],
+      [
+        "modern",
+        49
+      ],
+      [
+        "medieval",
+        26
+      ],
+      [
+        "asian",
+        11
+      ]
+    ],
+    "mean_dims": [
+      57.8,
+      29.6,
+      42.5
+    ]
+  },
+  "6": {
+    "size": 118,
+    "function_top": [
+      [
+        "other",
+        76
+      ],
+      [
+        "house",
+        18
+      ],
+      [
+        "farm",
+        9
+      ],
+      [
+        "machine",
+        4
+      ]
+    ],
+    "style_top": [
+      [
+        "other",
+        114
+      ],
+      [
+        "modern",
+        3
+      ],
+      [
+        "scifi",
+        1
+      ]
+    ],
+    "mean_dims": [
+      44.4,
+      24.2,
+      27.5
+    ]
+  },
+  "7": {
+    "size": 146,
+    "function_top": [
+      [
+        "other",
+        119
+      ],
+      [
+        "statue",
+        17
+      ],
+      [
+        "ship",
+        3
+      ],
+      [
+        "machine",
+        2
+      ]
+    ],
+    "style_top": [
+      [
+        "other",
+        142
+      ],
+      [
+        "fantasy",
+        1
+      ],
+      [
+        "western",
+        1
+      ],
+      [
+        "modern",
+        1
+      ]
+    ],
+    "mean_dims": [
+      57.6,
+      39.3,
+      18.6
+    ]
+  }
+}

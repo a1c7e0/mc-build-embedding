@@ -1,0 +1,224 @@
+{
+  "clusters": [
+    0,
+    2
+  ],
+  "chain": [
+    {
+      "t": 0.0,
+      "nearest": [
+        2431,
+        1498,
+        1043,
+        2482,
+        1132
+      ],
+      "fn": [
+        "other",
+        "tower",
+        "house",
+        "ship",
+        "house"
+      ],
+      "st": [
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ]
+    },
+    {
+      "t": 0.125,
+      "nearest": [
+        2917,
+        2431,
+        780,
+        1498,
+        3191
+      ],
+      "fn": [
+        "ship",
+        "other",
+        "other",
+        "tower",
+        "other"
+      ],
+      "st": [
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ]
+    },
+    {
+      "t": 0.25,
+      "nearest": [
+        2917,
+        780,
+        1462,
+        210,
+        747
+      ],
+      "fn": [
+        "ship",
+        "other",
+        "other",
+        "house",
+        "other"
+      ],
+      "st": [
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ]
+    },
+    {
+      "t": 0.375,
+      "nearest": [
+        2917,
+        1462,
+        2142,
+        3053,
+        104
+      ],
+      "fn": [
+        "ship",
+        "other",
+        "other",
+        "other",
+        "other"
+      ],
+      "st": [
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ]
+    },
+    {
+      "t": 0.5,
+      "nearest": [
+        99,
+        302,
+        2142,
+        104,
+        100
+      ],
+      "fn": [
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ],
+      "st": [
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ]
+    },
+    {
+      "t": 0.625,
+      "nearest": [
+        2585,
+        2013,
+        1285,
+        289,
+        99
+      ],
+      "fn": [
+        "other",
+        "farm",
+        "other",
+        "other",
+        "other"
+      ],
+      "st": [
+        "other",
+        "other",
+        "fantasy",
+        "other",
+        "other"
+      ]
+    },
+    {
+      "t": 0.75,
+      "nearest": [
+        1285,
+        2013,
+        745,
+        2871,
+        2585
+      ],
+      "fn": [
+        "other",
+        "farm",
+        "other",
+        "other",
+        "other"
+      ],
+      "st": [
+        "fantasy",
+        "other",
+        "other",
+        "other",
+        "other"
+      ]
+    },
+    {
+      "t": 0.875,
+      "nearest": [
+        2871,
+        745,
+        1285,
+        487,
+        2265
+      ],
+      "fn": [
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ],
+      "st": [
+        "other",
+        "other",
+        "fantasy",
+        "other",
+        "other"
+      ]
+    },
+    {
+      "t": 1.0,
+      "nearest": [
+        676,
+        2871,
+        2265,
+        2469,
+        487
+      ],
+      "fn": [
+        "other",
+        "other",
+        "other",
+        "bridge",
+        "other"
+      ],
+      "st": [
+        "other",
+        "other",
+        "other",
+        "other",
+        "other"
+      ]
+    }
+  ]
+}

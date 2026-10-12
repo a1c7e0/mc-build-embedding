@@ -1,0 +1,44 @@
+# Large raw data (download from source datasets)
+data/
+out_lib/buildings/
+out_lib/procthor/
+out_lib/plans/procthor_*.jsonl
+out_lib/plans/procthor_materials.json
+out_lib/models_archive/
+out_lib/vq_data*.npz
+out_lib/vq_tokens*.npz
+out_lib/tokens64*.npz
+
+# Generated outputs (can be regenerated)
+out/
+out_lib/atlas*/
+out_lib/vision_tmp/
+out_lib/prior_samples/
+out_lib/v3_samples/
+out_lib/fair_samples/
+out_lib/motifs_*.npz
+out_lib/full_deco_*.npz
+out_lib/motif_showcase.png
+out_lib/interior_closeup.png
+
+# Keep derived analysis data (our work)
+!out_lib/decoration_vocab.json
+!out_lib/deco_style_table.json
+!out_lib/deco_motifs*.json
+!out_lib/procthor_placement.json
+!out_lib/room_furniture_rules.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.deps/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+docs/*.log
+*.log

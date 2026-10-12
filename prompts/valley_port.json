@@ -1,0 +1,63 @@
+{
+  "name": "valley_port",
+  "prompt": "Dusk river-valley industrial port: a river cuts from snowy NW canyons toward a SE bay; the old industrial district on the west bank is slowly swallowed by vines and overgrown machinery; the east bank is a dense brick market town; a lighthouse watches over the ridge; terraced farmland covers the outer slopes.",
+  "seed": 20261007,
+  "size": [512, 512],
+  "world_height": 96,
+  "water_level": 28,
+  "terrain": {
+    "relief": 46,
+    "sea_direction": "se",
+    "meander": 0.05,
+    "droplets": 22000,
+    "river": [[0.10, 0.12], [0.30, 0.34], [0.42, 0.52], [0.58, 0.68], [0.78, 0.82], [1.02, 0.98]],
+    "river_width": 13,
+    "river_depth": 7
+  },
+  "features": [
+    {"type": "mountain", "center": [0.12, 0.13], "radius": 0.27, "height": 30},
+    {"type": "mountain", "center": [0.31, 0.04], "radius": 0.15, "height": 17},
+    {"type": "basin", "center": [0.56, 0.50], "radius": 0.13, "depth": 7},
+    {"type": "plateau", "center": [0.82, 0.21], "radius": 0.10, "height": 13}
+  ],
+  "districts": [
+    {"type": "ruins", "label": "old quarter ruins", "center": [0.33, 0.47], "radius": 0.15,
+     "clusters": [0, 5], "density": 0.55,
+     "authors": ["xV3NoMxHD", "Leefield"],
+     "tags": ["castle", "keep", "cathedral"],
+     "palette": {"mineral": 98, "colourful": 172}},
+    {"type": "industry", "label": "heavy industry & docks", "center": [0.56, 0.72], "radius": 0.13,
+     "clusters": [2, 7], "density": 0.5,
+     "authors": ["UTD Projects", "Tronic"],
+     "tags": ["factory", "warehouse"],
+     "palette": {"mineral": 1, "colourful": 42}},
+    {"type": "market", "label": "brick market town", "center": [0.45, 0.38], "radius": 0.15,
+     "clusters": [3, 4], "density": 0.7,
+     "authors": ["Smon", "Breakc0re"],
+     "tags": ["market", "shop", "hall"],
+     "palette": {"mineral": 45, "colourful": 45}},
+    {"type": "suburb", "label": "outer housing & workshops", "center": [0.68, 0.55], "radius": 0.12,
+     "clusters": [1, 6], "density": 0.45,
+     "authors": ["GREGON"],
+     "tags": ["house", "home"],
+     "palette": {"mineral": 98, "colourful": 155}},
+    {"type": "temple", "label": "temple gardens", "center": [0.22, 0.22], "radius": 0.11,
+     "clusters": [0, 5], "density": 0.5,
+     "authors": ["massEntropy"],
+     "tags": ["temple"],
+     "palette": {"mineral": 155, "colourful": 35}}
+  ],
+  "roads": [
+    {"name": "river_road", "follow_river": {"offset": 34}, "width": 3},
+    {"name": "market_street", "points": [[0.36, 0.32], [0.50, 0.42], [0.64, 0.56]], "width": 3},
+    {"name": "ridge_road", "points": [[0.30, 0.20], [0.52, 0.28], [0.72, 0.36]], "width": 2}
+  ],
+  "landmarks": [
+    {"type": "lighthouse", "at": [0.74, 0.68]},
+    {"type": "watchtower", "at": [0.20, 0.30]}
+  ],
+  "decoration": {
+    "tree_density": 0.012,
+    "farm": [{"center": [0.80, 0.50], "radius": 0.08}, {"center": [0.30, 0.76], "radius": 0.07}]
+  }
+}

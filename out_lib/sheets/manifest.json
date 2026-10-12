@@ -1,0 +1,709 @@
+{
+  "cluster_c0.png": [
+    {
+      "tile": 1,
+      "idx": 2431,
+      "desc": "MobArena spawnUnit"
+    },
+    {
+      "tile": 2,
+      "idx": 1498,
+      "desc": "THE TWIN TOWERS"
+    },
+    {
+      "tile": 3,
+      "idx": 2482,
+      "desc": "Science Ship"
+    },
+    {
+      "tile": 4,
+      "idx": 1132,
+      "desc": "Little City House"
+    },
+    {
+      "tile": 5,
+      "idx": 3191,
+      "desc": "CPU - Processor 1 Bit Compact"
+    },
+    {
+      "tile": 6,
+      "idx": 575,
+      "desc": "9 Wide binary to 7 Segment Decoder"
+    },
+    {
+      "tile": 7,
+      "idx": 3239,
+      "desc": "Redstone 8 Bit Multiplier"
+    },
+    {
+      "tile": 8,
+      "idx": 2141,
+      "desc": "Starter Igloo"
+    },
+    {
+      "tile": 9,
+      "idx": 531,
+      "desc": "Forest biome-island"
+    },
+    {
+      "tile": 10,
+      "idx": 759,
+      "desc": "Treehouse"
+    },
+    {
+      "tile": 11,
+      "idx": 1960,
+      "desc": "Cliffside Manor"
+    },
+    {
+      "tile": 12,
+      "idx": 535,
+      "desc": "Sand island"
+    }
+  ],
+  "cluster_c1.png": [
+    {
+      "tile": 1,
+      "idx": 821,
+      "desc": "piston dilemma"
+    },
+    {
+      "tile": 2,
+      "idx": 1662,
+      "desc": "Nyan Cat Temple"
+    },
+    {
+      "tile": 3,
+      "idx": 1553,
+      "desc": "Cinema Center"
+    },
+    {
+      "tile": 4,
+      "idx": 1059,
+      "desc": "A basic colosseum"
+    },
+    {
+      "tile": 5,
+      "idx": 1121,
+      "desc": "Farmer Jim's Farm (Basic Farm)"
+    },
+    {
+      "tile": 6,
+      "idx": 2748,
+      "desc": "Piston House with Man Made Mine, Lava house, Farm and More :D"
+    },
+    {
+      "tile": 7,
+      "idx": 198,
+      "desc": "Compact Through Light Rail Station"
+    },
+    {
+      "tile": 8,
+      "idx": 153,
+      "desc": "The Simpson House"
+    },
+    {
+      "tile": 9,
+      "idx": 2061,
+      "desc": "nether themed arena"
+    },
+    {
+      "tile": 10,
+      "idx": 703,
+      "desc": "Ten button double four digit PIN"
+    },
+    {
+      "tile": 11,
+      "idx": 800,
+      "desc": "home with pool lights"
+    },
+    {
+      "tile": 12,
+      "idx": 127,
+      "desc": "Toadstool Tower"
+    }
+  ],
+  "cluster_c2.png": [
+    {
+      "tile": 1,
+      "idx": 676,
+      "desc": "Federation Borg Cube - U.S.S Borg"
+    },
+    {
+      "tile": 2,
+      "idx": 2871,
+      "desc": "dessert trap"
+    },
+    {
+      "tile": 3,
+      "idx": 2265,
+      "desc": "Facebook Logo"
+    },
+    {
+      "tile": 4,
+      "idx": 2469,
+      "desc": "little piston bridge"
+    },
+    {
+      "tile": 5,
+      "idx": 487,
+      "desc": "Mother Of all Mines (%100 legit)"
+    },
+    {
+      "tile": 6,
+      "idx": 1509,
+      "desc": "big underground city"
+    },
+    {
+      "tile": 7,
+      "idx": 1505,
+      "desc": "Mass mine"
+    },
+    {
+      "tile": 8,
+      "idx": 1556,
+      "desc": "Tower of Ore"
+    },
+    {
+      "tile": 9,
+      "idx": 1557,
+      "desc": "Tower of Daimonds"
+    },
+    {
+      "tile": 10,
+      "idx": 1200,
+      "desc": "Updating Project [ Small Projects ] SwimmingPool / bBasenik ( By bacek57 and Mateusz1234 )"
+    },
+    {
+      "tile": 11,
+      "idx": 2921,
+      "desc": "Peeing Android"
+    },
+    {
+      "tile": 12,
+      "idx": 1419,
+      "desc": "pixel art pokemon"
+    }
+  ],
+  "cluster_c3.png": [
+    {
+      "tile": 1,
+      "idx": 1805,
+      "desc": "Imperial heavy factory"
+    },
+    {
+      "tile": 2,
+      "idx": 1056,
+      "desc": "Temple Of Light"
+    },
+    {
+      "tile": 3,
+      "idx": 514,
+      "desc": "Dutch-Inspired Windmill"
+    },
+    {
+      "tile": 4,
+      "idx": 1373,
+      "desc": "Feast Castle - fantasy castle"
+    },
+    {
+      "tile": 5,
+      "idx": 2489,
+      "desc": "Kings Crossing Tower"
+    },
+    {
+      "tile": 6,
+      "idx": 1284,
+      "desc": "Sphere House v2.0"
+    },
+    {
+      "tile": 7,
+      "idx": 162,
+      "desc": "Massive Banyan Tree!!! (Schematic file added!!!)"
+    },
+    {
+      "tile": 8,
+      "idx": 3174,
+      "desc": "Trimaran Wave Cutter"
+    },
+    {
+      "tile": 9,
+      "idx": 2375,
+      "desc": "diamond factory"
+    },
+    {
+      "tile": 10,
+      "idx": 727,
+      "desc": "Server Spawn"
+    },
+    {
+      "tile": 11,
+      "idx": 1035,
+      "desc": "Sandstone-Tower"
+    },
+    {
+      "tile": 12,
+      "idx": 1495,
+      "desc": "MPTL-2A"
+    }
+  ],
+  "cluster_c4.png": [
+    {
+      "tile": 1,
+      "idx": 2809,
+      "desc": "Medieval village"
+    },
+    {
+      "tile": 2,
+      "idx": 1163,
+      "desc": "Lumbridge Castle"
+    },
+    {
+      "tile": 3,
+      "idx": 23,
+      "desc": "Kerridge"
+    },
+    {
+      "tile": 4,
+      "idx": 2150,
+      "desc": "super cool skull tower!"
+    },
+    {
+      "tile": 5,
+      "idx": 2276,
+      "desc": "Zelda Ocarina of Time - Lost Woods"
+    },
+    {
+      "tile": 6,
+      "idx": 2436,
+      "desc": "Trololo Redstone Schematic"
+    },
+    {
+      "tile": 7,
+      "idx": 2114,
+      "desc": "New House with Farm"
+    },
+    {
+      "tile": 8,
+      "idx": 2387,
+      "desc": "Castle"
+    },
+    {
+      "tile": 9,
+      "idx": 1530,
+      "desc": "Fort Qila"
+    },
+    {
+      "tile": 10,
+      "idx": 2600,
+      "desc": "Zelda: Song of Storms"
+    },
+    {
+      "tile": 11,
+      "idx": 2348,
+      "desc": "The Kingdom of Leonardo"
+    },
+    {
+      "tile": 12,
+      "idx": 1172,
+      "desc": "Abbey Pack."
+    }
+  ],
+  "cluster_c5.png": [
+    {
+      "tile": 1,
+      "idx": 2225,
+      "desc": "Town"
+    },
+    {
+      "tile": 2,
+      "idx": 1671,
+      "desc": "HMS Destiny, a 34 gun Frigate with complete interior."
+    },
+    {
+      "tile": 3,
+      "idx": 3207,
+      "desc": "Nordic Base From Skyrim"
+    },
+    {
+      "tile": 4,
+      "idx": 1463,
+      "desc": "Petit Tour"
+    },
+    {
+      "tile": 5,
+      "idx": 1317,
+      "desc": "Swedish combat ship"
+    },
+    {
+      "tile": 6,
+      "idx": 1583,
+      "desc": "Castle Leyer"
+    },
+    {
+      "tile": 7,
+      "idx": 2719,
+      "desc": "Library of Atlantis (DOWNLOAD!)"
+    },
+    {
+      "tile": 8,
+      "idx": 1594,
+      "desc": "Rapid Rifts (Roller Coaster)"
+    },
+    {
+      "tile": 9,
+      "idx": 2333,
+      "desc": "The Facility from Goldeneye 007 - Nintendo64"
+    },
+    {
+      "tile": 10,
+      "idx": 1099,
+      "desc": "Farmhouse 2"
+    },
+    {
+      "tile": 11,
+      "idx": 624,
+      "desc": "Chinese Style Theatre and Art Gallery"
+    },
+    {
+      "tile": 12,
+      "idx": 2356,
+      "desc": "brick church"
+    }
+  ],
+  "cluster_c6.png": [
+    {
+      "tile": 1,
+      "idx": 28,
+      "desc": "The smallest elevator in Minecraft 1.16.3 !"
+    },
+    {
+      "tile": 2,
+      "idx": 721,
+      "desc": "Issae: The Blue Theatre"
+    },
+    {
+      "tile": 3,
+      "idx": 2074,
+      "desc": "Tunnel & Sewer"
+    },
+    {
+      "tile": 4,
+      "idx": 626,
+      "desc": "MEGA wheat farm"
+    },
+    {
+      "tile": 5,
+      "idx": 164,
+      "desc": "Extreme Rock-Paper-Scissors"
+    },
+    {
+      "tile": 6,
+      "idx": 1443,
+      "desc": "A Simple Lights out game"
+    },
+    {
+      "tile": 7,
+      "idx": 1502,
+      "desc": "Cool Mashion"
+    },
+    {
+      "tile": 8,
+      "idx": 316,
+      "desc": "Underground House"
+    },
+    {
+      "tile": 9,
+      "idx": 2109,
+      "desc": "Redstone TV - now with video"
+    },
+    {
+      "tile": 10,
+      "idx": 1233,
+      "desc": "Theatre arena"
+    },
+    {
+      "tile": 11,
+      "idx": 1860,
+      "desc": "Alphabet Display"
+    },
+    {
+      "tile": 12,
+      "idx": 137,
+      "desc": "Lost Woods Music Box"
+    }
+  ],
+  "cluster_c7.png": [
+    {
+      "tile": 1,
+      "idx": 2531,
+      "desc": "jackbro's pixel art - Windows logo"
+    },
+    {
+      "tile": 2,
+      "idx": 2915,
+      "desc": "Rhydon"
+    },
+    {
+      "tile": 3,
+      "idx": 2550,
+      "desc": "My Original 2D character"
+    },
+    {
+      "tile": 4,
+      "idx": 743,
+      "desc": "Pikachu"
+    },
+    {
+      "tile": 5,
+      "idx": 2025,
+      "desc": "Void droid pixel art"
+    },
+    {
+      "tile": 6,
+      "idx": 843,
+      "desc": "Wartortle Sprite"
+    },
+    {
+      "tile": 7,
+      "idx": 829,
+      "desc": "Pichu bros sprite"
+    },
+    {
+      "tile": 8,
+      "idx": 788,
+      "desc": "Pikachu Pixel Art"
+    },
+    {
+      "tile": 9,
+      "idx": 855,
+      "desc": "Rollingstones logo"
+    },
+    {
+      "tile": 10,
+      "idx": 248,
+      "desc": "Charizard"
+    },
+    {
+      "tile": 11,
+      "idx": 1461,
+      "desc": "Awesome face.... thingey"
+    },
+    {
+      "tile": 12,
+      "idx": 418,
+      "desc": "Southpark Eric"
+    }
+  ],
+  "boundary.png": [
+    {
+      "tile": 1,
+      "idx": 676,
+      "desc": "Federation Borg Cube - U.S.S Borg"
+    },
+    {
+      "tile": 2,
+      "idx": 2871,
+      "desc": "dessert trap"
+    },
+    {
+      "tile": 3,
+      "idx": 2469,
+      "desc": "little piston bridge"
+    },
+    {
+      "tile": 4,
+      "idx": 1556,
+      "desc": "Tower of Ore"
+    },
+    {
+      "tile": 5,
+      "idx": 1557,
+      "desc": "Tower of Daimonds"
+    },
+    {
+      "tile": 6,
+      "idx": 1505,
+      "desc": "Mass mine"
+    },
+    {
+      "tile": 7,
+      "idx": 1200,
+      "desc": "Updating Project [ Small Projects ] SwimmingPool / bBasenik ( By bacek57 and Mateusz1234 )"
+    },
+    {
+      "tile": 8,
+      "idx": 2921,
+      "desc": "Peeing Android"
+    },
+    {
+      "tile": 9,
+      "idx": 1419,
+      "desc": "pixel art pokemon"
+    },
+    {
+      "tile": 10,
+      "idx": 1421,
+      "desc": "pixel bowser"
+    },
+    {
+      "tile": 11,
+      "idx": 891,
+      "desc": "8 bit AUG H BAR"
+    },
+    {
+      "tile": 12,
+      "idx": 892,
+      "desc": "8 bit M4A1"
+    },
+    {
+      "tile": 13,
+      "idx": 3140,
+      "desc": "Wheat fields"
+    },
+    {
+      "tile": 14,
+      "idx": 2385,
+      "desc": "Skull with swords"
+    },
+    {
+      "tile": 15,
+      "idx": 893,
+      "desc": "8 bit AK47"
+    },
+    {
+      "tile": 16,
+      "idx": 603,
+      "desc": "Natalie Portman Pixel Art"
+    }
+  ],
+  "interp_0_2.png": [
+    {
+      "tile": 1,
+      "idx": 2431,
+      "desc": "MobArena spawnUnit"
+    },
+    {
+      "tile": 2,
+      "idx": 2917,
+      "desc": "Titan Class Drop Ship"
+    },
+    {
+      "tile": 3,
+      "idx": 2917,
+      "desc": "Titan Class Drop Ship"
+    },
+    {
+      "tile": 4,
+      "idx": 2917,
+      "desc": "Titan Class Drop Ship"
+    },
+    {
+      "tile": 5,
+      "idx": 99,
+      "desc": "SlipGate Center"
+    },
+    {
+      "tile": 6,
+      "idx": 2585,
+      "desc": "Basic Party"
+    },
+    {
+      "tile": 7,
+      "idx": 1285,
+      "desc": "Final Fantasy I Characters"
+    },
+    {
+      "tile": 8,
+      "idx": 2871,
+      "desc": "dessert trap"
+    },
+    {
+      "tile": 9,
+      "idx": 676,
+      "desc": "Federation Borg Cube - U.S.S Borg"
+    }
+  ],
+  "sample_0.png": [
+    {
+      "tile": 1,
+      "idx": 1268,
+      "desc": "Throne Room"
+    },
+    {
+      "tile": 2,
+      "idx": 2382,
+      "desc": "Modern castle"
+    },
+    {
+      "tile": 3,
+      "idx": 973,
+      "desc": "Mortal Kombat Symbol"
+    },
+    {
+      "tile": 4,
+      "idx": 151,
+      "desc": "World Map"
+    },
+    {
+      "tile": 5,
+      "idx": 1999,
+      "desc": "Under Water Base"
+    },
+    {
+      "tile": 6,
+      "idx": 308,
+      "desc": "Turboat Race"
+    },
+    {
+      "tile": 7,
+      "idx": 2299,
+      "desc": "Nice woolie house."
+    },
+    {
+      "tile": 8,
+      "idx": 1787,
+      "desc": "Working bomber plane"
+    },
+    {
+      "tile": 9,
+      "idx": 2787,
+      "desc": "Abstract Parkour Map"
+    },
+    {
+      "tile": 10,
+      "idx": 1322,
+      "desc": "[1.8.1] Huge Auto-Wheat-Farm! [No Hunger!] [Schematic]"
+    },
+    {
+      "tile": 11,
+      "idx": 2632,
+      "desc": "The Broccoli island"
+    },
+    {
+      "tile": 12,
+      "idx": 1748,
+      "desc": "Small Beyblade"
+    },
+    {
+      "tile": 13,
+      "idx": 1271,
+      "desc": "UGE PRISON"
+    },
+    {
+      "tile": 14,
+      "idx": 635,
+      "desc": "Harlund's Office Building"
+    },
+    {
+      "tile": 15,
+      "idx": 2432,
+      "desc": "MobArena V0.2: fully configurable spawning behavior your arena waves! (NO mods/plugins)"
+    },
+    {
+      "tile": 16,
+      "idx": 293,
+      "desc": "Large City Complex - Hotel"
+    }
+  ]
+}

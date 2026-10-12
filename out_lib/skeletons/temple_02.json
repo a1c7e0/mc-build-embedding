@@ -1,0 +1,28 @@
+{
+  "id": "temple_02",
+  "scale": { "unit": "block", "storey_height": 6 },
+  "footprint": { "w": 17, "d": 11 },
+  "rooms": [
+    { "id": "hall", "type": "temple", "rect": [1, 1, 16, 10], "storeys": [0] }
+  ],
+  "walls": [
+    { "from": [0, 0], "to": [17, 0], "storeys": [0], "openings": [
+      { "kind": "door", "at": 6, "width": 5, "height": 5, "y": 0 },
+      { "kind": "window", "at": 1, "width": 3, "height": 3, "y": 2 },
+      { "kind": "window", "at": 13, "width": 3, "height": 3, "y": 2 }
+    ] },
+    { "from": [17, 0], "to": [17, 11], "storeys": [0], "openings": [
+      { "kind": "window", "at": 4, "width": 3, "height": 3, "y": 2 }
+    ] },
+    { "from": [17, 11], "to": [0, 11], "storeys": [0], "openings": [
+      { "kind": "window", "at": 3, "width": 3, "height": 3, "y": 2 },
+      { "kind": "window", "at": 11, "width": 3, "height": 3, "y": 2 }
+    ] },
+    { "from": [0, 11], "to": [0, 0], "storeys": [0], "openings": [
+      { "kind": "window", "at": 4, "width": 3, "height": 3, "y": 2 }
+    ] }
+  ],
+  "floors": [ { "storey": 0, "rect": [0, 0, 17, 11] } ],
+  "roof": { "kind": "hip", "overhang": 2, "pitch": 1, "ridge": "x" },
+  "material": { "wall": "mineral", "floor": "mineral", "roof": "mineral", "frame": "wood" }
+}
